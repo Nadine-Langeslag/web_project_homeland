@@ -1,0 +1,9 @@
+.pages{
+background-color: #2A2C2F;
+color: #FFFFFF;
+font-family: "Inter";
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
