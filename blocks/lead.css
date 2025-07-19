@@ -7,7 +7,7 @@ flex-direction: column;
 
 .lead__title{
 max-width: 720px;
-font-family: "Inter";
+font-family: "InterBlack";
 font-weight: 900;
 font-size: 96px;
 line-height: 100px;
@@ -21,7 +21,8 @@ font-weight: 400;
 font-size: 30px;
 line-height: 36px;
 text-align: center;
-
+box-sizing: border-box;
+padding-bottom: 64px ;
 }
 
 .lead__image{
@@ -29,6 +30,8 @@ text-align: center;
     height: 615px;
     object-fit: cover;
     filter: grayscale(100%);
+    box-shadow: 10px 10px 25px 0px #00000080;
+
 }
 
 /* TABLETS */
