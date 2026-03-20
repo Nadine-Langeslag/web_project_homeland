@@ -1,5 +1,19 @@
 # Homeland – Responsive Web Page
 
+## Preview
+
+### Desktop
+
+![Homeland Desktop](./images/homeland-desktop.png)
+
+### Tablet
+
+![Homeland Tablet](./images/homeland-tablet.png)
+
+### Mobile
+
+![Homeland Mobile](./images/homeland-mobile.png)
+
 ## Description
 
 Homeland is a responsive gallery website built using HTML and CSS. The project focuses on creating a layout that adapts smoothly to different screen sizes, providing a consistent user experience across devices.
